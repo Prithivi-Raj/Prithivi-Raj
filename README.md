@@ -4,6 +4,12 @@
 
 #### Currently, Head of [Webops team, Shaastra IITM](https://github.com/ShaastraWebops)
 
+<div>
+    <a href="https://github.com/Prithivi-Raj">
+        <img height="25" src="https://img.shields.io/github/followers/Prithivi-Raj?label=follow&style=social">
+    </a>
+</div><br><br>
+
 <!--
 **Prithivi-Raj/Prithivi-Raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
