@@ -56,13 +56,20 @@ Here are some ideas to get you started:
 <h2 align = "center">Github Stats 📈</h2>
 
 <p align="center" justify="center">
+  <a href="https://github.com/Prithivi-Raj" target="_blank" justify="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&theme=radical&&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithivi-Raj&show_icons=true&theme=dark&&layout=compact" />
+  </a>
+</p>
+
+<!-- <p align="center" justify="center">
 <a href="https://github.com/Prithivi-Raj" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&theme=radical&&count_private=true&include_all_commits=true" alt="Prithivi-raj's GitHub Stats" />
 </a>
 <a href="https://github.com/Prithivi-Raj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithivi-Raj&show_icons=true&theme=dark&&count_private=true&include_all_commits=true" />
 </a>
-</p>
+</p> -->
 <!-- ![Prithivi-Raj's GitHub stats]() -->
 
 <!-- <h2 align = "center">Github Stats 📈</h2>
