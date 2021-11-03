@@ -51,6 +51,7 @@ Here are some ideas to get you started:
   <!-- <img align = "center" src ="https://user-images.githubusercontent.com/65016769/135293536-ec31116a-5dc6-4ac0-a25c-af0b590f34dd.png" width="800px" height="400px"/> -->
 
 </p>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Prithivi-Raj" >
