@@ -24,7 +24,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/Prithivi-Raj">
         <img height="25" src="https://img.shields.io/github/followers/Prithivi-Raj?label=follow&style=social">
     </a>
-</div><br><br>
+</div>
+
 <p align="center">
 
 <a href="https://twitter.com/Prithiviraj1927"><img src = "https://img.shields.io/badge/Twitter-Prithiviraj1927?style=for-the-badge&logo=twitter&logoColor=white"/></a>
