@@ -2,7 +2,9 @@
 
 #### Junior Undergraduate @ IITM
 
-#### Currently, Head of [Webops team, Shaastra IITM](https://github.com/ShaastraWebops)
+#### Currently, Head of [Webops team @ Shaastra IITM](https://github.com/ShaastraWebops)
+
+<img align='right' src="https://media.tenor.com/images/bb06bbd5166b5617785ea6f1876aa62c/tenor.gif" width="230">
 
 <!--
 **Prithivi-Raj/Prithivi-Raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
