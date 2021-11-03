@@ -35,17 +35,18 @@ Here are some ideas to get you started:
         <img height="25" src="https://img.shields.io/github/followers/Prithivi-Raj?label=follow&style=social">
     </a>
 
-<a href="https://twitter.com/Prithiviraj1927"><img src = "https://img.shields.io/badge/Twitter-Prithiviraj1927?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/prithivi-raj-6a445b12b/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 </p>
 
 <p align="center">
- <a href="https://twitter.com/Drishti0901"><img src = "https://img.shields.io/badge/Twitter-Drishti0901?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+ <!-- <a href="https://twitter.com/Drishti0901"><img src = "https://img.shields.io/badge/Twitter-Drishti0901?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/drishti-peshwani"><img src = "https://img.shields.io/badge/LinkedIn-drishti-peshwani?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto: drishtipeshwani09@gmail.com"><img src = "https://img.shields.io/badge/Gmail-Drishti?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href="https://dev.to/drishtipeshwani"><img src = "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-  <img align = "center" src ="https://user-images.githubusercontent.com/65016769/135293536-ec31116a-5dc6-4ac0-a25c-af0b590f34dd.png" width="800px" height="400px"/>
+  <img align = "center" src ="https://user-images.githubusercontent.com/65016769/135293536-ec31116a-5dc6-4ac0-a25c-af0b590f34dd.png" width="800px" height="400px"/> -->
+
+<a href="https://twitter.com/Prithiviraj1927"><img src = "https://img.shields.io/badge/Twitter-Prithiviraj1927?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/prithivi-raj-6a445b12b/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 </p>
 
 ![Prithivi-Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&theme=radical&&count_private=true&include_all_commits=true)
