@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 <div>
-    <a href="https://github.com/Prithivi-Raj">
-        <img height="25" src="https://img.shields.io/github/followers/Prithivi-Raj?label=follow&style=social">
-    </a>
+   
 </div>
 
 <!-- <p align="center">
@@ -31,10 +29,14 @@ Here are some ideas to get you started:
 </p> -->
 
 <h2 align = "center">Let's connect ✨</h2>
+ <a href="https://github.com/Prithivi-Raj">
+        <img height="25" src="https://img.shields.io/github/followers/Prithivi-Raj?label=follow&style=social">
+    </a>
 <p align="center">
+
 <a href="https://twitter.com/Prithiviraj1927"><img src = "https://img.shields.io/badge/Twitter-Prithiviraj1927?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/prithivi-raj-6a445b12b/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- 
+
 </p>
 
 ![Prithivi-Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&theme=radical&&count_private=true&include_all_commits=true)
