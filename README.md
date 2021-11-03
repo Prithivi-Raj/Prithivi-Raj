@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
- <!-- <a href="https://twitter.com/Drishti0901"><img src = "https://img.shields.io/badge/Twitter-Drishti0901?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+ <!-- <!-- <a href="https://twitter.com/Drishti0901"><img src = "https://img.shields.io/badge/Twitter-Drishti0901?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
  <a href="https://www.linkedin.com/in/drishti-peshwani"><img src = "https://img.shields.io/badge/LinkedIn-drishti-peshwani?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto: drishtipeshwani09@gmail.com"><img src = "https://img.shields.io/badge/Gmail-Drishti?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href="https://dev.to/drishtipeshwani"><img src = "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
