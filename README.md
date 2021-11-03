@@ -1,4 +1,4 @@
-<img align='right' src="https://media.tenor.com/images/bb06bbd5166b5617785ea6f1876aa62c/tenor.gif" width="230">
+<img align='right' src="https://tenor.com/view/motis-maeve-maevewiley-you-waited-gif-13339882" width="230">
 
 ### Hi there, This is Prithiviraj👋
 
