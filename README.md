@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
-
+<div>
+    <a href="https://github.com/Prithivi-Raj">
+        <img height="25" src="https://img.shields.io/github/followers/Prithivi-Raj?label=follow&style=social">
+    </a>
+</div><br><br>
 <p align="center">
 <div>
     <a href="https://github.com/Prithivi-Raj">
