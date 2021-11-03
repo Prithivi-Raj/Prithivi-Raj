@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 
 </p>
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats -->
+<h2 align = "center">Github Stats 📈</h2>
 
 <a href="https://github.com/Prithivi-Raj" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&theme=radical&&count_private=true&include_all_commits=true" alt="Prithivi-raj's GitHub Stats" />
