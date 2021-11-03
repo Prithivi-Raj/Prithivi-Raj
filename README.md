@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 </p>
 
-![Prithivi-Raj's GitHub stats]()
+<!-- ![Prithivi-Raj's GitHub stats]() -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&theme=radical&&count_private=true&include_all_commits=true" alt="Prithivi-Raj" /></p>
 
