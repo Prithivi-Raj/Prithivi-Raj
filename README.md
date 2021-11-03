@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 
 <!-- ![Prithivi-Raj's GitHub stats]() -->
 
-<h2 align = "center">Github Stats 📈</h2>
+<!-- <h2 align = "center">Github Stats 📈</h2>
 <p><img align="center" height="195px" width = "300px"src="https://drishti-stats-github.vercel.app/api/top-langs?username=drishtipeshwani&show_icons=true&locale=en&layout=compact" alt="drishtipeshwani" /></p>
 
-<p><img align="left" src="https://drishti-stats-github.vercel.app/api?username=drishtipeshwani&show_icons=true&locale=en&theme=radical&count_private=true" alt="drishtipeshwani" /></p>
+<p><img align="left" src="https://drishti-stats-github.vercel.app/api?username=drishtipeshwani&show_icons=true&locale=en&theme=radical&count_private=true" alt="drishtipeshwani" /></p> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&theme=radical&&count_private=true&include_all_commits=true" alt="Prithivi-Raj" /></p>
 
