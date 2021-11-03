@@ -41,15 +41,6 @@ Here are some ideas to get you started:
 
 </p>
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Prithivi-Raj" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&theme=radical&&count_private=true&include_all_commits=true" alt="Prithivi-raj's GitHub Stats" />
-</a>
-<a href="https://github.com/Prithivi-Raj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithivi-Raj&show_icons=true&theme=dark&&count_private=true&include_all_commits=true" />
-</a>
-
 <p align="center">
  <!-- <!-- <a href="https://twitter.com/Drishti0901"><img src = "https://img.shields.io/badge/Twitter-Drishti0901?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
  <a href="https://twitter.com/Prithiviraj1927"><img src = "https://img.shields.io/badge/Twitter-Prithiviraj1927?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -60,7 +51,14 @@ Here are some ideas to get you started:
   <!-- <img align = "center" src ="https://user-images.githubusercontent.com/65016769/135293536-ec31116a-5dc6-4ac0-a25c-af0b590f34dd.png" width="800px" height="400px"/> -->
 
 </p>
+## &#x1f4c8; GitHub Stats
 
+<a href="https://github.com/Prithivi-Raj" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&theme=radical&&count_private=true&include_all_commits=true" alt="Prithivi-raj's GitHub Stats" />
+</a>
+<a href="https://github.com/Prithivi-Raj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithivi-Raj&show_icons=true&theme=dark&&count_private=true&include_all_commits=true" />
+</a>
 <!-- ![Prithivi-Raj's GitHub stats]() -->
 
 <!-- <h2 align = "center">Github Stats 📈</h2>
@@ -68,8 +66,8 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://drishti-stats-github.vercel.app/api?username=drishtipeshwani&show_icons=true&locale=en&theme=radical&count_private=true" alt="drishtipeshwani" /></p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&theme=radical&&count_private=true&include_all_commits=true" alt="Prithivi-Raj" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prithivi-Raj&show_icons=true&theme=radical&&count_private=true&include_all_commits=true" alt="Prithivi-Raj" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prithivi-Raj&show_icons=true&theme=dark&&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prithivi-Raj&show_icons=true&theme=dark&&count_private=true&include_all_commits=true) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
