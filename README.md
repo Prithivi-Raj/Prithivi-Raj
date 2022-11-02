@@ -6,7 +6,7 @@
 
 <!-- <img align='right' src="https://c.tenor.com/9rv4DCNB16MAAAAC/motis-otismilburn.gif" width="230"> -->
 
-#### Junior Undergraduate @ IITM
+#### Senior Undergraduate @ IITM
 
 #### Ex Head of [Webops team @ Shaastra IITM](https://github.com/ShaastraWebops)
 
