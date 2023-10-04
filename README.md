@@ -2,11 +2,11 @@
 
 <!-- <div class="tenor-gif-embed" data-postid="13339882" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/motis-maeve-maevewiley-you-waited-gif-13339882">Motis Maeve GIF</a>from <a href="https://tenor.com/search/motis-gifs">Motis GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
 
-### Hey there, This is Prithiviraj👋
+### Prithiviraj here.
 
 <!-- <img align='right' src="https://c.tenor.com/9rv4DCNB16MAAAAC/motis-otismilburn.gif" width="230"> -->
 
-#### Senior Undergraduate @ IITM
+#### B.Tech graduate @ IITM
 
 #### Ex Head of [Webops team @ Shaastra IITM](https://github.com/ShaastraWebops)
 
